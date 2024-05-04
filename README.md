@@ -25,7 +25,7 @@ wq.restart LhngKv-s30OXbri/I2aD
 wq.shutdown LhngKv-s30OXbri/I2aD
 wq.shutdownpc LhngKv-s30OXbri/I2aD
 wq.notepad LhngKv-s30OXbri/I2aD
-wq.change_passwrod LhngKv-s30OXbri/I2aD wqlsz wq1234
+wq.change_password LhngKv-s30OXbri/I2aD wqlsz wq1234
 ```
 
 
